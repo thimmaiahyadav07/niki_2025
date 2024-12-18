@@ -1,0 +1,1 @@
+print("intiki velli padukotaanu")
